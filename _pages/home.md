@@ -78,28 +78,28 @@ Our network includes prestigious universities and institutions such as: Duke Uni
     <div class="scroll-container">
         <div class="scroll-inner">
             <div class="logo-track">
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/duke.png" alt="School 1"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ntu.png" alt="School 2"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/thu.png" alt="School 3"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/anu.png" alt="School 4"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/zju.png" alt="School 5"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/umich.png" alt="School 6"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/wisc.png" alt="School 7"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ucl.png" alt="School 8"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/uofg.png" alt="School 9"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/nvidia.png" alt="School 10"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/duke.png" alt="School 1"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/ntu.png" alt="School 2"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/thu.png" alt="School 3"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/anu.png" alt="School 4"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/zju.png" alt="School 5"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/umich.png" alt="School 6"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/wisc.png" alt="School 7"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/ucl.png" alt="School 8"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/uofg.png" alt="School 9"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/nvidia.png" alt="School 10"></div>
             </div>
             <div class="logo-track">
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/duke.png" alt="School 1"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ntu.png" alt="School 2"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/thu.png" alt="School 3"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/anu.png" alt="School 4"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/zju.png" alt="School 5"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/umich.png" alt="School 6"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/wisc.png" alt="School 7"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ucl.png" alt="School 8"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/uofg.png" alt="School 9"></div>
-                <div class="logo-item"><img src="http://localhost:4000/images/logopic/nvidia.png" alt="School 10"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/duke.png" alt="School 1"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/ntu.png" alt="School 2"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/thu.png" alt="School 3"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/anu.png" alt="School 4"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/zju.png" alt="School 5"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/umich.png" alt="School 6"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/wisc.png" alt="School 7"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/ucl.png" alt="School 8"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/uofg.png" alt="School 9"></div>
+                <div class="logo-item"><img src="https://sigmir.org/images/logopic/nvidia.png" alt="School 10"></div>
             </div>
         </div>
     </div>
