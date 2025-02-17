@@ -6,73 +6,102 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+## Welcome to the SIGMIR💥
+
+The Special Interest Group in Modern Interdisciplinary Research (SIGMIR) was officially founded in January 2025, uniting students, faculty members, and researchers from leading universities and industry across the globe.
+
+**Vision:**  
+Our vision is to break down collaboration barriers across regions and institutions, fostering a global research network built on shared interests. We aim to output high-quality academic research and seamlessly translate it into real-world industrial solutions. Our work not only contributes to premier conferences and journals but also prioritizes impactful industrial applications, ensuring the continuous delivery of high-quality results and technological innovations to both academia and industry.
+
+**Work Philosophy:**  
+At SIGMIR, impact drives everything we do. We believe that meaningful research extends beyond publications—it should shape industries, influence policies, and create tangible solutions. Through a dynamic, collaborative model, we unite researchers and engineers from diverse fields to tackle complex, long-term challenges.
+
+**Collaboration Network:**  
+Our network includes prestigious universities and institutions such as: Duke University, Harvard University, Nanyang Technological University, National University of Singapore, University College London, Australian National University, University of Wisconsin-Madison, Chinese University of Hong Kong, Hong Kong Polytechnic University, Tsinghua University, Zhejiang University, Xi'an Jiaotong University, University of Macau, University of Glasgow, Chinese Academy of Sciences, NVIDIA Research, and more.
+
+**We are actively seeking new members** to join our team. To apply, please fill out this [Google Form](https://forms.gle/AjJL3JqME9eKJFuF6)!
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5; /* 你可以根据需要调整背景色 */
+        }
+        .scroll-container {
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+            padding: 20px 0;
+            background: transparent; 
+        }
+        .logo-track {
+            display: flex;
+            width: max-content;
+            animation: scroll 20s linear infinite;
+        }
+        @keyframes scroll {
+            from {
+                transform: translateX(0);
+            }
+            to {
+                transform: translateX(-50%);
+            }
+        }
+        .logo-item {
+            flex: 0 0 auto;
+            width: 100px;
+            height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 15px;
+            border-radius: 10px;
+            box-shadow: none; 
+        }
+        .logo-item img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+        .scroll-inner {
+            display: flex;
+            width: max-content;
+        }
+    </style>
+</head>
+<body>
+    <div class="scroll-container">
+        <div class="scroll-inner">
+            <div class="logo-track">
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/duke.png" alt="School 1"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ntu.png" alt="School 2"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/thu.png" alt="School 3"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/anu.png" alt="School 4"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/zju.png" alt="School 5"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/umich.png" alt="School 6"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/wisc.png" alt="School 7"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ucl.png" alt="School 8"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/uofg.png" alt="School 9"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/nvidia.png" alt="School 10"></div>
+            </div>
+            <div class="logo-track">
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/duke.png" alt="School 1"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ntu.png" alt="School 2"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/thu.png" alt="School 3"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/anu.png" alt="School 4"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/zju.png" alt="School 5"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/umich.png" alt="School 6"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/wisc.png" alt="School 7"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/ucl.png" alt="School 8"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/uofg.png" alt="School 9"></div>
+                <div class="logo-item"><img src="http://localhost:4000/images/logopic/nvidia.png" alt="School 10"></div>
+            </div>
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
-
-
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+</body>
+</html>
