@@ -68,7 +68,7 @@ permalink: /team/
 
 
 
-
+<!-- 
 ## Members
 <div class="row">
 
@@ -91,6 +91,6 @@ permalink: /team/
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 
-</div>
+<!-- </div> -->
