@@ -34,6 +34,13 @@
   number_educ: 1
   education1: Duke University
 
+- name: Bohan Zhang
+  photo: rock.jpg
+  info: Chair of United States Chapter
+  email: bohanzh@umich.edu
+  number_educ: 1
+  education1: University of Michigan, Ann Arbor
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
